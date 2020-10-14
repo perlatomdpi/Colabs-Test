@@ -1,2 +1,2 @@
-# GPU Colab-Test
-GPU-Accelerated Applications - Nvidia
+# GPU Colab
+Test GPU-Accelerated Applications - Nvidia
