@@ -1,2 +1,2 @@
-# GPu Colabs-Testfor
+# GPu Colab-Test
 GPU-Accelerated Applications - Nvidia
