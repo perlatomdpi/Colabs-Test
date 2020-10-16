@@ -1,2 +1,2 @@
 # GPU Colab
-Test GPU-Accelerated Applications - Nvidia
+How to configure Google Colabs for GPU-Accelerated Applications - Nvidia
